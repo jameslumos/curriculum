@@ -13,6 +13,8 @@ Attendance at Techtonica's HTML/CSS & JS workshops
 ### Motivation
 Since most software engineering is done in teams, it's important that the code you write is easy for others to read. You will be expected to write easily-readable code as a software engineer.
 
+In some organizations it is actually preferable to write readable code over the most optimal code (although this is often a context sensitive preference). It is a good idea to practice white-boarding in conjunction with writing readable code because on-site interviews may ask you to code an algorithm directly on the whiteboard and it is much easier to defend and visually verify readable code over algorithmically correct but terse code. This is a skill we look for at Lumosity.com.
+
 ### Objectives
 
 **Participants will be able to:**
